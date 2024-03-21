@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.alexkdeveloper.calculator",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "45",
+    "runtime-version" : "46",
     "sdk" : "org.gnome.Sdk",
     "command" : "calculator",
     "finish-args" : [
@@ -49,7 +49,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/calculator.git",
-                    "tag" : "1.0.0"
+                    "tag" : "1.0.1"
                 }
             ]
         }
